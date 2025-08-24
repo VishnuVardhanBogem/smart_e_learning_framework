@@ -1,0 +1,6 @@
+user_id,current_state,previous_modules,total_score,learning_style
+user123,beginner,module1|module2,85,visual
+user124,advanced,module1|module3|module4,75,auditory
+user125,intermediate,module2|module3,90,kinesthetic
+user126,beginner,module1,60,visual
+user127,advanced,module1|module2|module3|module4,95,auditory
